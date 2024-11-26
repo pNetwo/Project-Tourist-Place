@@ -1,0 +1,169 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+#container {
+  max-width: 1120px;
+  margin: 0 auto;
+
+  padding: 88px;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: bold;
+
+  text-transform: uppercase;
+  color: #e1624f;
+
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #1b1b1b;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  margin-bottom: 40px;
+}
+
+img {
+  width: 100%;
+  border-radius: 28px;
+}
+
+#main-description {
+  font-size: 16px;
+  color: #333333;
+
+  font-style: italic;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  text-align: center;
+
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+hr {
+  margin-bottom: 64px;
+  border: 1px solid #d9d9d9;
+}
+
+h2 {
+  font-size: 32px;
+
+  color: #1b1b1b;
+
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 28px;
+
+  margin-top: 20px;
+  margin-bottom: 4px;
+  margin-left: 8px;
+
+  color: #1b1b1b;
+}
+
+#history-description {
+  font-size: 16px;
+  color: #333333;
+
+  margin-bottom: 64px;
+}
+
+.description-location {
+  font-size: 16px;
+  color: #333333;
+
+  margin-bottom: 24px;
+}
+
+ol {
+  list-style-position: inside;
+  color: #1b1b1b;
+}
+
+.locations {
+  font-size: 28px;
+  color: #1b1b1b;
+
+  font-weight: bold;
+
+  margin: 20px 0 4px 8px;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+p {
+  font-size: 16px;
+}
+
+.tags ul {
+  color: #1b1b1b;
+  font-weight: bold;
+
+  margin-bottom: 48px;
+}
+
+.tags li::marker {
+  color: #1b1b1b;
+}
+
+.tags li {
+  color: #0c51a7;
+  margin-left: 8px;
+}
+
+li:nth-child(2) {
+  color: #591b98;
+}
+
+li:nth-child(3) {
+  color: #e5245e;
+}
+
+li:nth-child(4) {
+  color: #e95e10;
+}
+
+footer {
+  margin-top: 64px;
+
+  line-height: 150%;
+}
+
+footer p {
+  font-size: 16px;
+
+  color: #333333;
+
+  font-family: "Alice", serif;
+  text-align: center;
+}
+
+footer p img {
+  position: relative;
+  vertical-align: middle;
+  bottom: 3px;
+
+  width: 16px;
+}
