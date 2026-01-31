@@ -1,3 +1,5 @@
+![Preview do Projeto](./assets/preview.png)
+
 # Tourist Places - Busan 🇰🇷
 
 Um site informativo e visualmente atraente sobre a cidade de Busan, Coreia do Sul, desenvolvido durante o curso da Rocketseat.
