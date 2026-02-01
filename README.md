@@ -12,7 +12,6 @@ Um projeto de estudo desenvolvido durante meus aprendizados na Rocketseat, onde 
 
 - Estruturação semântica com HTML5
 - Estilização com CSS3 e layouts responsivos
-- Manipulação do DOM com JavaScript
 - Controle de versão com Git
 
 ## 🚀 Como visualizar
